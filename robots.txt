@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://josemamontoya-arch.github.io/proposalpilot/sitemap.xml
